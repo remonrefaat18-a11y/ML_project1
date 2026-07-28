@@ -2,6 +2,10 @@
 
 This project explores a binary classification problem for predicting liver disease using machine learning. The workflow includes data exploration, model training, evaluation, and comparison of multiple classifiers.
 
+## Data link
+https://www.kaggle.com/datasets/abhi8923shriv/liver-disease-patient-dataset/data
+
+
 ## Project Overview
 
 The dataset used in this project is stored in the data folder as Liver.csv. It contains patient health-related features and a target column named Result, where:
