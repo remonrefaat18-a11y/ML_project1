@@ -19,6 +19,7 @@ The project trains and evaluates several classification models to compare their 
   - model_1.ipynb - Random Forest model
   - model_2.ipynb - Decision Tree model
   - model_3.ipynb - K-Nearest Neighbors (KNN) model
+  - model_4.ipynb - Naive Bayes model
   - model_comparison.ipynb - Comparison of model results
 - results/ - CSV files containing model metrics and evaluation results
 
@@ -29,6 +30,7 @@ The following models were implemented and evaluated:
 - Random Forest Classifier
 - Decision Tree Classifier
 - K-Nearest Neighbors (KNN)
+- Naive Bayes Classifier
 
 ## Metrics Evaluated
 
@@ -69,7 +71,7 @@ jupyter notebook
 
 3. Open the notebooks in the notebooks folder in the following order:
    - EDA.ipynb
-   - model_1.ipynb / model_2.ipynb / model_3.ipynb
+   - model_1.ipynb / model_2.ipynb / model_3.ipynb / model_4.ipynb
    - model_comparison.ipynb
 
 ## Results
@@ -82,6 +84,8 @@ The trained models and their evaluation metrics are stored in the results folder
 - KNN_classification_report.csv
 - randomforest_results.csv
 - randomforest_classification_report.csv
+- naivebayes_results.csv
+- naivebayes_classification_report.csv
 
 ## Notes
 
